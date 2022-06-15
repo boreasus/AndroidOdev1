@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Odev</string>
+    <string name="title">Produck Details</string>
+    <string name="itemAdet">2</string>
+    <string name="baslik">Beef Burger</string>
+    <string name="para">$7.80</string>
+    <string name="aciklama">Cheesy Mozeralla</string>
+    <string name="yildiz">4.8</string>
+    <string name="kalori">150 kcal</string>
+    <string name="time">5-10 Min</string>
+    <string name="description">This beef burger uses %100 quality beef with slicced tomatoes, cucumbers, vegetable and onions...</string>
+    <string name="readMore">Read More</string>
+</resources>
